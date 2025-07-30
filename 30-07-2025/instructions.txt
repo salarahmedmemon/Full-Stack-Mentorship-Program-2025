@@ -1,0 +1,72 @@
+VS CODE / Visual Studio Code = IDE
+IDE -> Integrated Development Environment
+
+Projects aap ko diye jaaye ge wo kisi tack par based honge 
+means yaan to wo designs aap ko figma pe mile gii yaan to adobe mile gi.
+
+abhi mostly in dono par designs milti hain
+
+aaj hum figma ko explore kr rahe hain
+
+to take a screenshot
+fn + window + prt scr
+
+
+
+Let's build a website from scratch
+
+
+shift + 3 -> #
+
+# indicate krta hai id
+
+
+
+
+CSS -> Cascading Style Sheet
+ 
+indicate style wali files ko
+
+
+
+paired tag m do tag hote 
+1. open tag
+        e.g.,   <div key="value" >
+2. closed tag
+        e.g.,   </div>
+
+
+key="value" is format ko kehte hain attribute.
+
+attribute syntax:
+    key = "value"
+    rel = "stylesheet"
+
+
+agar aap ko koi cheez apne sides yaan parosi bhayi bheno se leni ho to aap
+ne ./ ka use kr na h
+
+
+
+comment krne ke liye aapne select krna h aur ctrl + /
+
+
+#name {
+
+}
+
+
+vw, vh
+
+vw -> view width poori width lena
+vh -> view height poori height lena
+
+
+
+ctrl + shift + tab ke upar btn h
+
+1. git init
+2. git remote add origin url
+3. git add .
+4. git commit -m "message"
+5. git push origin master
